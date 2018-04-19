@@ -1,0 +1,10 @@
+id  : UnicodeEscape
+name: UnicodeEscape
+version: 0.1
+author_name: tkds
+author_link: https://github.com/tkds/mt-plugin-UnicodeEscape
+description: 'text unicode entities convertor'
+tags:
+    modifier:
+        unicode_escape: $UnicodeEscape::UnicodeEscape::Tags::_filter_modifier
+
